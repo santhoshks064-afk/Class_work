@@ -22,7 +22,7 @@ public class JavaApplication2 {
             c+=b.charAt(i);
         }
         if(b.equals(c)){
-            System.out.println();
+            System.out.println("saranya");
         }
        
     }
